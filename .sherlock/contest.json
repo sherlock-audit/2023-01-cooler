@@ -6,9 +6,9 @@
   "prize_pool": "10000",
   "lead_senior_auditor_fixed_pay": "4000",
   "short_description": "A Cooler is a smart contract escrow that facilitates fixed-duration loans for a specific user and debt-collateral pair.",
-  "sponsor": "ohm",
-  "github_team": "ohm",
+  "sponsor": "cooler",
+  "github_team": "cooler",
   "lines_of_code": "230",
   "private": false,
-  "lead_senior_auditor_handle": None
+  "lead_senior_auditor_handle": null
 }
