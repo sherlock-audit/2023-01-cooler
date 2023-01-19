@@ -6,8 +6,8 @@
 
 # Resources
 
-- [Docs]([url](https://ag0.gitbook.io/cooler-loans/))
-- [Walkthrough]([url](https://ag0.gitbook.io/cooler-loan-code-walkthrough/))
+- [Docs](https://ag0.gitbook.io/cooler-loans/)
+- [Walkthrough](https://ag0.gitbook.io/cooler-loan-code-walkthrough/)
 
 # On-chain context
 
