@@ -1,4 +1,4 @@
-# {project} contest details
+# Cooler Loans contest details
 
 - Join [Sherlock Discord](https://discord.gg/MABEWyASkp)
 - Submit findings using the issue page in your private contest repo (label issues as med or high)
@@ -6,21 +6,19 @@
 
 # Resources
 
-- [resource1](url)
-- [resource2](url)
+- [Docs]([url](https://ag0.gitbook.io/cooler-loans/))
+- [Walkthrough]([url](https://ag0.gitbook.io/cooler-loan-code-walkthrough/))
 
 # On-chain context
 
-TO FILL IN BY PROTOCOL
-
 ```
-DEPLOYMENT: [e.g. mainnet, arbitrum, optimism, ..]
-ERC20: [e.g. any, none, USDC, USDC and USDT]
-ERC721: [e.g. any, none, UNI-V3]
-ERC777: [e.g. any, none, {token name}]
-FEE-ON-TRANSFER: [e.g. any, none, {token name}]
-REBASING TOKENS: [e.g. any, none, {token name}]
-ADMIN: [trusted, restricted, n/a]
+DEPLOYMENT: Mainnet
+ERC20: Any
+ERC721: None
+ERC777: None
+FEE-ON-TRANSFER: None
+REBASING TOKENS: None
+ADMIN: P2P + Restricted
 ```
 
 In case of restricted, by default Sherlock does not consider direct protocol rug pulls as a valid issue unless the protocol clearly describes in detail the conditions for these restrictions. 
@@ -32,4 +30,9 @@ Example:
 
 # Audit scope
 
-# About {project}
+Cooler.sol & Factory.sol
+ClearingHouse.sol
+
+# About Cooler Loans
+
+Cooler is a peer-to-peer lending protocol allowing a borrower and lender to engage in fixed-duration, fixed-interest lending. Cooler Loans are lightweight, trustless, independent of price-based liquidation, and allow borrowers to maintain delegation power over their committed collateral.
